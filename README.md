@@ -1,10 +1,15 @@
-### Hi there 👋 - I'm Igor Swatowski
+### Hey, I'm Igor
 
-I'm a junior frontend developer. 
+I love creating websites and apps. I work at freelancer as a Front End Developer and occassionally participate with startups.
 
-I’m working with HTML, CSS, JavaScript, Vue, Sass, Prestashop, Bootstrap, React, Material UI, Figma, MySQL
+⚡ Fun fact:
+
+👯 I’m looking to collaborate on projects that are using Front End.
+🏋️‍ I love sport and weight lifting.
+
+
+## Let's Connect ☕
 
 ##### To know me more:
 [Linkedin](https://www.linkedin.com/in/igor-swatowski-321796186/)
-
 [Portfolio](https://convertcode.pl/)
