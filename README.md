@@ -11,7 +11,6 @@ I love creating websites and apps. I work at freelancer as a Front End Developer
 
 ### Let's Connect ☕
 
-#### To know me more:
 [Linkedin](https://www.linkedin.com/in/igor-swatowski-321796186/)
 
 [Portfolio](https://convertcode.pl/)
