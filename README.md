@@ -1,6 +1,6 @@
 ## 💻 Hey, I'm Igor
 
-I love creating websites and apps. I work at freelancer as a Front End Developer and occassionally participate with startups.
+I love creating websites and apps. I work as a Front End Developer and occassionally participate with startups.
 
 ### ⚡ Fun fact:
 
