@@ -25,3 +25,4 @@ I love creating websites and apps. I work as a Front End Developer and occassion
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img align="left" alt="Linux" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/518/518713.svg" />
 <img align="left" alt="Slack" width="26px" src="https://www.smarsh.com/media/Slack.png" />
+<img align="left" alt="Material Ui" width="26px" src="https://material-ui.com/static/logo_raw.svg" />
