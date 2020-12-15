@@ -2,6 +2,8 @@
 
 I love creating websites and apps. I work as a Front End Developer and occassionally participate with startups.
 
+Two always there are. No less no more. Master and apprentice.
+
 ### ⚡ Fun fact:
 
 👯 I’m looking to collaborate on projects that are using Front End.
