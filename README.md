@@ -6,4 +6,4 @@ I'm always looking to learn and grow as a developer, so feel free to connect wit
 [Personal website](https://igorswatowski.com)
 [Twitter](https://twitter.com/igorfrontend)
 [Instagram](https://instagram.com/igor.websites)
-[Linkedin](https://www.google.com](https://linkedin.com/in/igorSwatowski)
+[Linkedin](https://linkedin.com/in/igorSwatowski)
